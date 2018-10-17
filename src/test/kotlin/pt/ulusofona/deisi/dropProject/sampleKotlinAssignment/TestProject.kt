@@ -33,7 +33,7 @@ class TestProject {
 
         main(emptyArray())
 
-        Assert.assertEquals("Introduza o primeiro número\nIntroduza o segundo número\n1 + 3 = 4\n", outContent.toString())
+        Assert.assertEquals("Enter the first number\nEnter the second number\n1 + 3 = 4\n", outContent.toString())
     }
 
     @Test
@@ -44,6 +44,7 @@ class TestProject {
 
         main(emptyArray())
 
-        Assert.assertEquals("Introduza o primeiro número\nIntroduza o segundo número\n2 + 5 = 7\n", outContent.toString())
+        Assert.assertEquals("Enter the first number\n" +
+                "Enter the second number\n2 + 5 = 7\n", outContent.toString())
     }
 }
