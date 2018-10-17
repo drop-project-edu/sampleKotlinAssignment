@@ -1,5 +1,3 @@
-package pt.ulusofona.deisi.dropProject.sampleKotlinAssignment
-
 import org.junit.After
 import org.junit.Assert
 import org.junit.Before

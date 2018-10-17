@@ -1,5 +1,3 @@
-package pt.ulusofona.deisi.dropProject.sampleKotlinAssignment
-
 fun main(args: Array<String>) {
     println("Enter the first number")
     val num1 = readLine()!!.toInt()
