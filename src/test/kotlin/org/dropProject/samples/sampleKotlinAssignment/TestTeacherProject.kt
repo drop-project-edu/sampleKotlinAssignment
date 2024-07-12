@@ -1,4 +1,4 @@
-package org.dropProject.samples.sampleKotlinAssignment
+package org.dropproject.samples.samplekotlinassignment
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
