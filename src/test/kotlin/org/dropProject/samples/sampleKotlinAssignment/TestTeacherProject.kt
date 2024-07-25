@@ -6,7 +6,7 @@ import org.junit.Test
 // in Drop Project, all test classes must begin with "Test"
 class TestTeacherProject {
 
-    @Test
+    @Test(timeout = 500)
     fun testFindMax() {
         assertEquals(7, findMax(arrayOf(1, 2, 7, 4)))
     }
