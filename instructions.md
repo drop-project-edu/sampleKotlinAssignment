@@ -1,3 +1,5 @@
+![kotlin-logo-180x180-985835476](https://github.com/user-attachments/assets/f82cb457-757a-447c-809b-f24820e75e82)
+
 # Sample Kotlin Assignment
 
 This is just a very simple Kotlin assignment just to experiment with Drop Project.
